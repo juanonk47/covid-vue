@@ -34,4 +34,5 @@ API COVID-19 data
 https://rapidapi.com/api-sports/api/covid-193
 
 EXAMPLE:
+
 https://trusting-roentgen-accaf6.netlify.app/
