@@ -8,10 +8,10 @@ npm run build
 
 # navigate into the build output directory
 cd dist
-
+git checkout git-pages
 git add -A
 git commit -m 'deploy'
-git push
+git push -f
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
 
