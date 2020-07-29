@@ -11,6 +11,7 @@ cd dist
 
 git add -A
 git commit -m 'deploy'
+git push
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
 
